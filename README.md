@@ -1,12 +1,12 @@
-### My name is Antonio Martinez, I am a Computer Vision, AI, Deep Learning Engineer.
+## My name is Antonio Martinez, I am a Computer Vision, AI, Deep Learning Engineer.
 
 🤔 You can find more info about me in: [my page](https://amalbala.carrd.co/)
 
-My passion are images, I like to understand them and convert into information to help taking decissions. 
+My passion are images, I like to understand and convert them into information to help taking decissions.
 
 I have a PhD on Computer Vision focus on the bridge between Computer Graphics and Computer Vision, you can see some examples here.
 
-Some of my social contacts:
+📫  Some of my social contacts:
 - [Linkedin](www.linkedin.com/in/antoniomartinezalbala)
 - [Research Gate](https://www.researchgate.net/profile/Antonio-Martinez-38)
 
