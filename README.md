@@ -4,7 +4,7 @@
 
 My passion are images, I like to understand and convert them into information to help taking decissions.
 
-I have a PhD on Computer Vision focus on the bridge between Computer Graphics and Computer Vision, you can see some examples here.
+I have a [PhD on Computer Vision](https://drive.google.com/file/d/1zOTi0RMW5_12R4Z1h-ew70yWKK7_dwe0/view?usp=sharing) focus on the bridge between Computer Graphics and Computer Vision, you can see some examples here.
 
 📫  Some of my social contacts:
 - [Linkedin](www.linkedin.com/in/antoniomartinezalbala)
